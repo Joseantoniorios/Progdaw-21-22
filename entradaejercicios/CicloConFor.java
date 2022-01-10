@@ -33,8 +33,21 @@ public class CicloConFor {
         System.out.println("");
         for(int i=repeticiones;i>=0;i--){
             System.out.println(i);
+        }    
+            
+        System.out.println("");
+        
+        for(int j=1;j<=10;j++){
+            System.out.println("j= "+j );
         }
-             
+        
+        System.out.println("");
+        
+        for(int k=10;k>=0;k--){
+            System.out.println("k= "+k);
+        }
+            
     }
-    
+             
 }
+    
